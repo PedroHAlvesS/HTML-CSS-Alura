@@ -1,4 +1,4 @@
-#banner {
+.banner {
     width: 100%;
 }
 
@@ -12,15 +12,15 @@
     color: red;
 }
 
-
-.titulo-principal {
-    padding-left: 20px;
+.sobre strong {
+    font-weight: bold;
 }
 
-.titulo-centralizado {
+
+.titulo {
     padding-bottom: 30px;
     text-align: center;
-    font-size: 35px;
+    font-size: 2em;
 }
 
 
