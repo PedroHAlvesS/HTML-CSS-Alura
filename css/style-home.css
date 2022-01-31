@@ -118,6 +118,7 @@ body {
 
     .imagembeneficio, .beneficios_ul {
         width: 100%;
+        display: block;
     }
 
     .itens {
