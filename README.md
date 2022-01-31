@@ -21,3 +21,4 @@ Exemplos de conteúdo aprendido e usado
 - header e footer
 - menu de navegação
 - box shadow
+- degradê de cores
