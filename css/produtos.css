@@ -1,3 +1,7 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .produtos {
     width: 940px;
     margin: 0 auto;
@@ -43,4 +47,15 @@
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+@media screen and (max-width: 480px) {
+    .produtos {
+        width: auto;
+    }
+    .produtos li {
+        display: block;
+        width: auto;
+        margin-bottom: 5%;
+    }
 }
